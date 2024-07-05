@@ -1,15 +1,9 @@
 # Home Automation with RPi and Javascript
 
-*Updated article: https://viktorkirilov.me/post/home-automation-raspberry-pi/* 
+
 
 ![Intro](https://raw.githubusercontent.com/deepsyx/home-automation/master/Intro.png)
 
-Link to video
-=======
-
-https://youtu.be/wh0OoLUTeM8
-
-[![Alt text](http://i.imgur.com/7ZGu5tX.png)](https://youtu.be/wh0OoLUTeM8)
 
 Introduction
 =======
